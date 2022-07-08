@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  background-color: teal;
+  height: 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
